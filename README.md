@@ -1,4 +1,5 @@
-# pokedex
+# Pokedex
+Projeto - Aula do curso do Victor Lima - Guia do Programador
 
 ## Project setup
 ```
