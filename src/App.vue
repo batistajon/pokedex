@@ -27,7 +27,10 @@ export default {
   },
   created: function () {
     axios.get('https://pokeapi.co/api/v2/pokemon?limit=151&offset=0').then(res => {
+<<<<<<< HEAD
       
+=======
+>>>>>>> 369b028c64c40a83df70bdf0f443bcf3dde7e70c
       console.log('requisicao get ok')
       this.pokemons = res.data.results
     })
